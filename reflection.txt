@@ -1,0 +1,8 @@
+Summary:
+This coding challenge familiarized me with unix command line tools and using the sys library in python
+to handle command line arguments
+
+Lessons:
+1. Handle standard input and file input in separate functions
+2. sys.argv gets command line arguments as an array
+3. sys.stdin.read() gets standard input
