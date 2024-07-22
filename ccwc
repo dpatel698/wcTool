@@ -11,7 +11,7 @@ def count_bytes_file(filename):
 
 
 def count_bytes_stdin(text):
-    return len(text.encode('utf-8', "replace"))
+    return len(text.encode('utf-8'))
 
 
 def count_lines(text):
