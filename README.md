@@ -39,11 +39,11 @@ Output:
 342190 test.txt
 ```
 
-##Contributions
+## Contributions
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-##Acknowledgments
+## Acknowledgments
 
 Inspired by the Unix wc command.
 Thank you to the Coding Challenges community for the idea.
